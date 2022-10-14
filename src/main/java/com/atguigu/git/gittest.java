@@ -1,5 +1,7 @@
 package com.atguigu.git;
 
+import com.sun.org.apache.bcel.internal.generic.PUSH;
+
 /**
  * @author shkstart
  * @create 2022-10-14 18:02
@@ -13,5 +15,6 @@ public class gittest {
         System.out.println("hello git5");
         System.out.println("master test");
         System.out.println("hot-fix test" );
+        System.out.println("push test");
     }
 }
